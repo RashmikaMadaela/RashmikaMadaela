@@ -24,7 +24,7 @@ I'm a **Computer Science & Engineering undergraduate** at the **University of Mo
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
 ## 📊 GitHub Stats
-![Rashmika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Rashmika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RashmikaMadaela&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashmikamadaela/)
