@@ -8,7 +8,7 @@ I'm a **Computer Science & Engineering undergraduate** at the **University of Mo
 - 🎬 Video Editing & Motion Graphics
 
 ## 🏆 Achievements
-- 🥉 **Bronze Medalist** – International Mathematics & Science Olympiad (2017)
+- 🥉 **Bronze Medalist** – International Mathematics & Science Olympiad (2015)
 - 🎥 **Freelance Video Editor** – 4+ years of experience on Fiverr
 - 🎨 **Graphic Designer** 
 
