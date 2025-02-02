@@ -10,7 +10,7 @@ I'm a **Computer Science & Engineering undergraduate** at the **University of Mo
 ## 🏆 Achievements
 - 🥉 **Bronze Medalist** – International Mathematics & Science Olympiad (2017)
 - 🎥 **Freelance Video Editor** – 4+ years of experience on Fiverr
-- 🎨 **Active Designer** – Contributing to Mora Maths & Rotaract Club
+- 🎨 **Graphic Designer** 
 
 ## 🔧 Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -24,8 +24,8 @@ I'm a **Computer Science & Engineering undergraduate** at the **University of Mo
 ![Rashmika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/rashmikamadaela/))
+
 
 ---
 💡 *"Eager to learn, create, and collaborate on innovative projects!"*
